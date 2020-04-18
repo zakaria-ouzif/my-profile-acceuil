@@ -46,7 +46,7 @@ a{	font-family:  courier new, sans-serif;
 
 .whole-index{  ;background-color:black;text-align: center;}
 
-@media(max-width:500px) {
+@media(max-width:400px) {
 	.whole-index {
 		width: 300px
 	}
